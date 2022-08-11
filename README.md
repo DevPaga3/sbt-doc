@@ -86,3 +86,5 @@ A integração de notificações por email é distribuído por dois serviços qu
   content:    'Caro cliente Paga3,por meio desta informamos que...'
 }
 ```
+
+NOTA: Todo qualquer serviço de integração é conectado sempre com uma API_KEY quer seja AWS ou DigitalOcean.
